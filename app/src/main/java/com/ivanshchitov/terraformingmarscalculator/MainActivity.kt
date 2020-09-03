@@ -3,6 +3,9 @@ package com.ivanshchitov.terraformingmarscalculator
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+/**
+ * Main activity with the Navigation Fragment.
+ */
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
